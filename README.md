@@ -26,3 +26,6 @@ JSX 用来声明 React 当中的元素。
 * 状态提升
 
 * 组合 vs 继承
+
+参考：
+[官方文档](https://discountry.github.io/react/docs/hello-world.html)
