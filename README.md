@@ -1,10 +1,17 @@
 # React
 
-[Hello World](https://github.com/magicmai/React/issues/2)
+所有代码均托管在 CodePen 上。
 
-JSX 简介
+* [Hello World](https://codepen.io/magicmai/pen/gWZrMM)
 
-元素渲染
+* JSX简介
+
+React 使用一种叫做 JSX 的语法，它是 JavaScript 语法的一种扩展。
+
+JSX 用来声明 React 当中的元素。
+
+
+* [元素渲染](https://codepen.io/magicmai/pen/eRYPEx?editors=1010)
 
 组件 & Props
 
