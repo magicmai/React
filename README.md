@@ -6,4 +6,4 @@
 
 [Thinking In React](https://codepen.io/magicmai/pen/LLeGRP?editors=0010)
 
-[官方文档](https://discountry.github.io/react/docs/hello-world.html)
+参考：[官方文档](https://discountry.github.io/react/docs/hello-world.html)
