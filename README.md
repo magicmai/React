@@ -1,6 +1,6 @@
 # React
 
-**托管在CodePen的代码：
+**托管在CodePen的代码：**
 
 [Hello World](https://codepen.io/magicmai/pen/gWZrMM)
 
