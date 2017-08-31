@@ -1,6 +1,6 @@
-# React
+# 学习React
 
-## 创建新应用
+## 1.创建新应用
 [Create React App](https://github.com/facebookincubator/create-react-app) 是开始构建新的 React 单页面应用的最佳途径。
 
 ```
@@ -12,7 +12,7 @@ npm start
 ```
 当需要将应用部署到生产环境中时，运行 `npm run build` 将会在 `build` 文件夹中创建一个优化好的应用。
 
-## 实战代码
+## 2.实战代码
 **托管在CodePen的代码：**
 
 [Hello World](https://codepen.io/magicmai/pen/gWZrMM)
