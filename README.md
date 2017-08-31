@@ -32,6 +32,8 @@ npm start
 
 ### React 项目：
 
-[gallery-by-React](https://github.com/magicmai/gallery-by-React)
+- repository:
 
-[react-music-player](https://github.com/magicmai/react-music-player)
+  - [gallery-by-React](https://github.com/magicmai/gallery-by-React)
+
+  - [react-music-player](https://github.com/magicmai/react-music-player)
