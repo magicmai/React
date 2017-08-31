@@ -18,7 +18,7 @@ npm start
 
 参考：[官方文档](https://discountry.github.io/react/docs/hello-world.html)
 
-- CodePen:
+- CodePen :
 
   - [Hello World](https://codepen.io/magicmai/pen/gWZrMM)
 
@@ -26,13 +26,13 @@ npm start
 
   - [tic-tac-toe-by-react](https://codepen.io/magicmai/pen/YQxzrq?editors=0010)
 
-- repository:
+- repository :
 
   - [tic-tac-toe-by-react](https://github.com/magicmai/tic-tac-toe-by-react)
 
 ### React 项目：
 
-- repository:
+- repository :
 
   - [gallery-by-React](https://github.com/magicmai/gallery-by-React)
 
