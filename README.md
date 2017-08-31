@@ -16,19 +16,23 @@ npm start
 
 ### React 基础：
 
-[Hello World](https://codepen.io/magicmai/pen/gWZrMM)  -CodePen
+- CodePen:
 
-[Thinking In React](https://codepen.io/magicmai/pen/LLeGRP?editors=0010)  -CodePen
+[Hello World](https://codepen.io/magicmai/pen/gWZrMM)
 
-[tic-tac-toe-by-react](https://codepen.io/magicmai/pen/YQxzrq?editors=0010)  -CodePen  
+[Thinking In React](https://codepen.io/magicmai/pen/LLeGRP?editors=0010)
 
-[tic-tac-toe-by-react](https://github.com/magicmai/tic-tac-toe-by-react)  -repository
+[tic-tac-toe-by-react](https://codepen.io/magicmai/pen/YQxzrq?editors=0010)
+
+- repository:
+
+[tic-tac-toe-by-react](https://github.com/magicmai/tic-tac-toe-by-react)
 
 参考：[官方文档](https://discountry.github.io/react/docs/hello-world.html)
 
 ----
 
-### React 项目：###
+### React 项目：
 
 [gallery-by-React](https://github.com/magicmai/gallery-by-React)
 
