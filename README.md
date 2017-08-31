@@ -16,6 +16,8 @@ npm start
 
 ### React 基础：
 
+参考：[官方文档](https://discountry.github.io/react/docs/hello-world.html)
+
 - CodePen:
 
   - [Hello World](https://codepen.io/magicmai/pen/gWZrMM)
@@ -27,9 +29,6 @@ npm start
 - repository:
 
   - [tic-tac-toe-by-react](https://github.com/magicmai/tic-tac-toe-by-react)
-
-参考：[官方文档](https://discountry.github.io/react/docs/hello-world.html)
-
 
 ### React 项目：
 
