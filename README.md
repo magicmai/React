@@ -13,20 +13,21 @@ npm start
 当需要将应用部署到生产环境中时，运行 `npm run build` 将会在 `build` 文件夹中创建一个优化好的应用。
 
 ## 2. 实战代码
-**托管在CodePen的代码：**
 
-[Hello World](https://codepen.io/magicmai/pen/gWZrMM)
+### React 基础：
 
-[Thinking In React](https://codepen.io/magicmai/pen/LLeGRP?editors=0010)
+[Hello World](https://codepen.io/magicmai/pen/gWZrMM)  --CodePen
 
-[tic-tac-toe-by-react](https://codepen.io/magicmai/pen/YQxzrq?editors=0010)  -- [
+[Thinking In React](https://codepen.io/magicmai/pen/LLeGRP?editors=0010)  --CodePen
+
+[tic-tac-toe-by-react](https://codepen.io/magicmai/pen/YQxzrq?editors=0010)  --CodePen  -- [
 repository](https://github.com/magicmai/tic-tac-toe-by-react)
 
 参考：[官方文档](https://discountry.github.io/react/docs/hello-world.html)
 
 ----
 
-**React 项目：**
+### React 项目：###
 
 [gallery-by-React](https://github.com/magicmai/gallery-by-React)
 
