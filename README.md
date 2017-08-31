@@ -19,5 +19,13 @@ npm start
 
 [Thinking In React](https://codepen.io/magicmai/pen/LLeGRP?editors=0010)
 
+[tic-tac-toe-by-react](https://github.com/magicmai/tic-tac-toe-by-react)  [CodePen](https://codepen.io/magicmai/pen/YQxzrq?editors=0010)
+
 ----
 参考：[官方文档](https://discountry.github.io/react/docs/hello-world.html)
+
+**项目 repo：**
+
+[gallery-by-React](https://github.com/magicmai/gallery-by-React)
+
+[react-music-player](https://github.com/magicmai/react-music-player)
