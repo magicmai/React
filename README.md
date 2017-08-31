@@ -16,12 +16,13 @@ npm start
 
 ### React 基础：
 
-[Hello World](https://codepen.io/magicmai/pen/gWZrMM)  --CodePen
+[Hello World](https://codepen.io/magicmai/pen/gWZrMM)  -CodePen
 
-[Thinking In React](https://codepen.io/magicmai/pen/LLeGRP?editors=0010)  --CodePen
+[Thinking In React](https://codepen.io/magicmai/pen/LLeGRP?editors=0010)  -CodePen
 
-[tic-tac-toe-by-react](https://codepen.io/magicmai/pen/YQxzrq?editors=0010)  --CodePen  -- [
-repository](https://github.com/magicmai/tic-tac-toe-by-react)
+[tic-tac-toe-by-react](https://codepen.io/magicmai/pen/YQxzrq?editors=0010)  -CodePen  
+
+[tic-tac-toe-by-react](https://github.com/magicmai/tic-tac-toe-by-react)  -repository
 
 参考：[官方文档](https://discountry.github.io/react/docs/hello-world.html)
 
