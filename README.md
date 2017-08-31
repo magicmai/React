@@ -10,6 +10,7 @@ create-react-app my-app
 cd my-app
 npm start
 ```
+当需要将应用部署到生产环境中时，运行 `npm run build` 将会在 `build` 文件夹中创建一个优化好的应用。
 
 ## 实战代码
 **托管在CodePen的代码：**
